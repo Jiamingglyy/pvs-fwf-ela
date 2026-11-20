@@ -22,7 +22,7 @@ Supply authorized CSV or TSV exports with one row per participant. All four tabl
 | ELA | `ela_rigidity`, `unique_state_count`, `major_dwell_mean`, `basin_dwell_mean`, `direct_transition_frequency`, `indirect_transition_frequency`, `transition_entropy`, `mean_energy`, `energy_sd` |
 | Joint | `pvs_frontal_solidity`, `fwf_frontal_matched`, `ela_rigidity`, `wb_solidity`, `wb_FWF` |
 
-Use the designated corrected complete-case export for the joint analysis and the corresponding unimodal ELA export for group comparisons. The models use the rigidity scores supplied in those exports. Source-level imaging reconstruction and score provenance are outside the scope of these scripts.
+Use the designated corrected complete-case export for the joint analysis and the corresponding unimodal ELA export for group comparisons.
 
 ## Outputs
 
